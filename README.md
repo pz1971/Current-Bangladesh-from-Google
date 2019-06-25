@@ -3,7 +3,10 @@ This is a very tiny project (windows form app - .NET framework), created within 
 
 ---
 The only thing the program does, redirects you to a url that shows you the top news of Bangladesh from news.google.com
-* it allows interaction thouhg it can't be used as a web browser.
+* it allows interaction though it can't be used as a web browser.
+
+download the files and run the .exe file located in __Current Bangladesh from Google\Current Bangladesh from Google\bin\Debug__ directory.
+You can make changes in the files with visual studio 2019 using the .sln file.
 
 ---
 Other descriptions:
