@@ -1,0 +1,10 @@
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\bin\Debug\Current Bangladesh from Google.exe.config
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\bin\Debug\Current Bangladesh from Google.exe
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\bin\Debug\Current Bangladesh from Google.pdb
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current Bangladesh from Google.csprojAssemblyReference.cache
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current_Bangladesh_from_Google.Properties.Resources.resources
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current Bangladesh from Google.csproj.GenerateResource.cache
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current Bangladesh from Google.csproj.CoreCompileInputs.cache
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current Bangladesh from Google.exe
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current Bangladesh from Google.pdb
+C:\Users\Parvez\Desktop\Current Bangladesh from Google\Current Bangladesh from Google\obj\Debug\Current_Bangladesh_from_Google.Form1.resources
